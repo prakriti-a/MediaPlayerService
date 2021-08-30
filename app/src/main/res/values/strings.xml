@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Media Player Service</string>
+    <string name="pause">PAUSE</string>
+    <string name="play">PLAY</string>
+    <string name="stop">STOP</string>
+    <string name="song_name">Song Name</string>
+    <string name="inital_duration">-:-</string>
+    <string name="next">NEXT</string>
+    <string name="previous">PREVIOUS</string>
+</resources>
